@@ -4,9 +4,5 @@ html, body, #root, .app {
     height: 100%;
     width: 100%;
     font-family: "Inter", sans-serif;
-    transition: background-color 0.5s !important;
-}
 
-.MuiDrawer-paper {
-    transition: background-color 0.5s !important;
 }
